@@ -1,0 +1,20 @@
+package practice.practice2;
+
+public class StrongBox<E> {
+	private E item;
+	private KeyType keyType;
+	private int count;
+	
+	public enum KeyType {
+		PADLOCK, BUTTON, DIAL, FINGER;
+	}
+	
+	public void put(E i) {
+		this.item = i;
+	}
+	
+	public E get() {
+		return this.item;
+	}
+	
+}

@@ -183,3 +183,43 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.ui 2 2 2022-05-30 16:01:14.531
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-05-31 14:07:11.459 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220407-0240
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 2 2022-05-31 14:16:02.430
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.150
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.154
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.156
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.160
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.164
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.168
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.172
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.174
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.220
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-05-31 14:16:17.222
+!MESSAGE リソース '/Sukkiri_2/src/practice/practice2/Practice2_1.java' が存在しません。
